@@ -1,4 +1,4 @@
-Google Apps Scriptにて作成した「雨の日にLINEを通知してくれるアプリ」です
+Google Apps Script(GAS)にて作成した「雨の日にLINEを通知してくれる天気予報アプリ」です
 
 ■参考サイト
 LINE Developers https://developers.line.biz/ja/
